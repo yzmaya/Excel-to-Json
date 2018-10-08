@@ -26,3 +26,5 @@ Si lo abres en sublime o cualquier otro editor y no te identa el json puedes hac
 
 para identarlo, y luego le agregas la raiz que quieras para subirlo a firebase
 
+O bien, puedes ahorrarte todo esto y hacerlo desde --..... https://codebeautify.org/excel-to-json
+
